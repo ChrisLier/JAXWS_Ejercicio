@@ -2,7 +2,6 @@
 package org.escom.jaxws;
 
 import java.time.LocalDateTime;
-
 import javax.jws.WebService;
 
 @WebService(endpointInterface = "org.escom.jaxws.HelloWorld")
